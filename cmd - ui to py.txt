@@ -1,0 +1,1 @@
+pyuic5.exe -x kama_gui2.ui -o kama_gui2.py

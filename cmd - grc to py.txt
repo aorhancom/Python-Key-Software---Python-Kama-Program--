@@ -1,0 +1,1 @@
+C:\Python36_64\Scripts\pyrcc5.exe kaynak.qrc -o kaynak.py

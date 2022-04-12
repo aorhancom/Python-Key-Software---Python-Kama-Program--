@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="kama_olculer">
+    <file>resimler/kama_olcu.jpg</file>
+  </qresource>
+  <qresource prefix="kuvvet">
+    <file>resimler/kuvvet.jpg</file>
+    <file>resimler/icon.ico</file>
+  </qresource>
+</RCC>

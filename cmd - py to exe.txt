@@ -1,0 +1,5 @@
+pyinstaller.exe --onefile --noconsole C:/Users/aorhan/desktop/kama_gui2.py
+
+
+
+pyinstaller.exe --onefile --noconsole C:/Users/aorhan/desktop/kama_gui2.py --icon C:/Users/aorhan/desktop/icon.ico

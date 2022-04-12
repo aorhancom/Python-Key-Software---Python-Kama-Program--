@@ -1,0 +1,18 @@
+---------------KAMA RAPORU---------------
+*****VERÝLER*****
+Kama Boyu (L): 125
+Kama Eni (b): 21
+t1: 121
+t2: 212
+Tork: 10 Nmm
+Mil Çapý (d1): 121 mm
+Kama Akma Gerilmesi: 212 MPa
+Kama Emniyet Katsayýsý: 21
+Kama Sayýsý: 211521 Adet
+
+*****SONUÇLAR*****
+Kesme Gerilmesi: 0.0 Nmm
+P1: 0.0 MPa
+P2: 0.0 MPa
+
+DURUM: EMNiYETLi
